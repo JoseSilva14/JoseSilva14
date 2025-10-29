@@ -28,6 +28,7 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30" width="30" alt="react logo"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" width="30" alt="tailwind logo"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" height="30" width="30" alt="electron logo"/></code>
+  <code><img src="https://logo.svgcdn.com/logos/tauri.svg" height="30" width="30" alt="tauri logo"/></code>
 </p>
 
 
